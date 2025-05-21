@@ -1,0 +1,10 @@
+<svg width="172" height="194" viewBox="0 0 172 194" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path opacity="0.4" d="M0 16C0 7.16344 7.16344 0 16 0H122C130.837 0 138 7.16344 138 16V154C138 162.837 130.837 170 122 170H16C7.16344 170 0 162.837 0 154V16Z" fill="#DDDDDD" fill-opacity="0.866667"/>
+<path d="M31.4873 42C31.4873 33.1634 38.6507 26 47.4873 26H154.513C163.349 26 170.513 33.1634 170.513 42V177C170.513 185.837 163.349 193 154.513 193H47.4873C38.6508 193 31.4873 185.837 31.4873 177V42Z" fill="white" stroke="#BE93FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 6"/>
+<rect opacity="0.7" x="51.8325" y="48.0405" width="97.4873" height="7.62944" rx="3.81472" fill="#D9BFFF"/>
+<rect opacity="0.7" x="51.8325" y="66.6904" width="97.4873" height="7.62944" rx="3.81472" fill="#D9BFFF"/>
+<rect opacity="0.7" x="51.8325" y="85.3401" width="97.4873" height="7.62944" rx="3.81472" fill="#D9BFFF"/>
+<rect opacity="0.7" x="51.8325" y="103.99" width="61.0355" height="7.62944" rx="3.81472" fill="#D9BFFF"/>
+<circle cx="103" cy="152" r="25" fill="#7129DD"/>
+<path d="M93 151.568L100.359 159L114 145" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
