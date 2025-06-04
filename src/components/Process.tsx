@@ -31,7 +31,7 @@ export default function Process() {
   const steps = processSteps[activeTab];
   
   return (
-    <section className="bg-[#1C1A1F] py-16 sm:py-20 md:py-24 text-white relative">
+    <section id="process" className="bg-[#1C1A1F] py-16 sm:py-20 md:py-24 text-white relative">
 
       {/* 상단 역삼각형 */}
       <div className="absolute top-[-14px] left-1/2 -translate-x-1/2 w-[48px] h-[28px]">
